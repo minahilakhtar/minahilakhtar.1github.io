@@ -97,9 +97,7 @@ header {
     flex-flow: column;
     text-align: center;
 }
-header .user{
-    margin-top: 9vw;
-}
+
 header .user img {
     height: 17rem;
     width: 17rem;
