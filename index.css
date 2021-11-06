@@ -103,7 +103,7 @@ header .user img {
     width: 17rem;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     border: .7rem solid var(--color);
 }
 
@@ -128,7 +128,7 @@ header .navbar ul {
 header .navbar ul li a {
     display: block;
     padding: 1rem;
-    margin: 1.5rem 0;
+    margin: 1rem 0;
     background: #333;
     color: #fff;
     font-size: 2rem;
